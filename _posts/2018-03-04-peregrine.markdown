@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "progress update"
+title:  "peregrine progress update"
 date:   2018-03-04 00:00:48 +0200
 categories: peregrine
 ---
