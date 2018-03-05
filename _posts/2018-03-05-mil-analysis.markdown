@@ -9,7 +9,10 @@ categories: military & strategic analysis
 
 _(As a preface, I'm simply going to state that I won't bother engaging with the idea that this was some sort of bluff.  Any well-informed observer armed with a bit of logic and experience can demolish that notion easily.  The cards layed on the table here are more likely an ~65% discloure -- that is, an understatement, a partial disclosure.)_   
 
-{% twitter https://twitter.com/yari_ashi_zero/status/969331691973218305 maxwidth=500 limit=1 %}
+<!-- {% twitter https://twitter.com/yari_ashi_zero/status/969331691973218305 maxwidth=500 limit=1 %} -->
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Putin&#39;s speech today came with the most momentous collection of military technology disclosures in memory.  Some of that stuff mas known previously, some, like the nuclear powered cruise missile, are technological bolts from the blue, at least for the public.</p>&mdash; Wylie Кулик (@yari_ashi_zero) <a href="https://twitter.com/yari_ashi_zero/status/969331691973218305?ref_src=twsrc%5Etfw">March 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
@@ -37,4 +40,7 @@ I'll comment on this in a later edit.  I will say immediately that this should b
 
 
 
-{% twitter https://twitter.com/yari_ashi_zero/status/969947709208776705 maxwidth=500 limit=1 %}
+<!-- {% twitter https://twitter.com/yari_ashi_zero/status/969947709208776705 maxwidth=500 limit=1 %} -->
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If Israel plays nice, maybe these purely defensive weapons systems could be purchased for viable, economical defense against thousands of Hezbollah rockets.<br>Nuclear-Powered Anti-Missile System? What Russia&#39;s Combat Laser May Be Used For: <a href="https://t.co/dVpAbYSYUA">https://t.co/dVpAbYSYUA</a> via <a href="https://twitter.com/SputnikInt?ref_src=twsrc%5Etfw">@SputnikInt</a></p>&mdash; Wylie Кулик (@yari_ashi_zero) <a href="https://twitter.com/yari_ashi_zero/status/969947709208776705?ref_src=twsrc%5Etfw">March 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
